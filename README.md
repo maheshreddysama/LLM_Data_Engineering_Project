@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bd8ebc03-38ef-4bcc-8692-b187e6fa0da6" />
+
 # Data Engineering Pipeline: Smart Data Validation
 
 ## Overview
