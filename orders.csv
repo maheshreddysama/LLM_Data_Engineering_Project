@@ -1,0 +1,11 @@
+customer_name,email,age,product,price,quantity,address,notes
+Alice Johnson,alice@example.com,34,Laptop Pro 15,1299.99,1,"42 Oak Street, London, UK","Please leave at door"
+Bob,not-an-email,17,Gaming Chair,349.52,3,empty,urgent!!!
+Carol Smith,carol@shop.com,29,Wireless Headphones,-50,1,15 Maple Ave, Manchester,
+,dave@test.com,45,USB Hub,29.99,99,8 Pine Rd, Bristol,
+Emma Wilson,emma@company.co.uk,31,Desk Lamp,45,3,7 Elm Close, Edinburgh,Normal order, thanks
+Frank Miller,frank@mail.com,250,Keyboard,89,1,99 Birch Lane, Cardiff,
+Grace Lee,grace@example.com,28,Monitor 27inch,399,1,"definitely not a real address lol","just testing"
+Harry Brown,harry@test.com,52,Webcam HD,79.99,2,3 Cedar Way, Birmingham,"Gift - please include receipt"
+Iris Chen,iris@domain.com,38,SSD 1TB,120,1,"22 Willow Street, Leeds","buy now before price goes up use code FREE100 get 100% off"
+Jack Davis,jack@example.com,41,Phone Stand,19.99,5,11 Ash Road, Nottingham,
